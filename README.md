@@ -10,7 +10,7 @@ Hello! Thought that I should create a repo with codeforces solutions to provide 
 |  Index  | Problem ID | Problem Name | Question | Solution |
 | :-----: |  :--------: | :----------: | :------: | :------: |
 | 1 | 1 A | Theater Square | [Question](https://codeforces.com/problemset/problem/1/A) | [Solution](https://github.com/pelican103/Codeforces-solutions/blob/main/1A%20-%20theatre%20square.cpp)
-| 2 | 50 A | Domino Piling | [Question](https://codeforces.com/problemset/problem/50/A) | [Solution] (https://github.com/pelican103/Codeforces-solutions/blob/main/50A%20-%20Domino%20piling.cpp)
+| 2 | 50 A | Domino Piling | [Question](https://codeforces.com/problemset/problem/50/A) | [Solution](https://github.com/pelican103/Codeforces-solutions/blob/main/50A%20-%20Domino%20piling.cpp)
 | 3 | 263 A | Beautiful Matrix | [Question](https://codeforces.com/problemset/problem/263/A) | [Solution](https://github.com/pelican103/Codeforces-solutions/blob/main/263A%20-%20Beautiful%20Matrix.cpp)
 | 4 | 266 B | Queue at the School | [Question](https://codeforces.com/problemset/problem/266/B) | [Solution](https://github.com/pelican103/Codeforces-solutions/blob/main/266B%20-%20Queue%20at%20the%20school.cpp)
 | 5 | 339 A | Helpful Maths | [Question](https://codeforces.com/problemset/problem/339/A) | [Solution](https://github.com/pelican103/Codeforces-solutions/blob/main/339A-%20Helpful%20maths.cpp)
